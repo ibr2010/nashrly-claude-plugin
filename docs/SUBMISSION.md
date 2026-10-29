@@ -18,7 +18,7 @@ gh auth status || gh auth login
 gh repo create nashrly-claude-plugin --public --source . --push --description "Nashrly plugin for Claude: store audits, product optimization, social posts, SEO, Arabic localization"
 ```
 
-Then replace `<github-owner>` in README.md with your GitHub username/org, raise nothing else, commit and `git push`.
+Then replace `ibr2010` in README.md with your GitHub username/org, raise nothing else, commit and `git push`.
 
 The repo may stay private during review (requires the Claude GitHub App installed on it), but must be public before the listing goes live.
 
@@ -31,7 +31,7 @@ The repo may stay private during review (requires the Claude GitHub App installe
 ## 4. Portal fields: Submit new > Plugin bundle
 
 ### Source
-- **Repository:** `<github-owner>/nashrly-claude-plugin`
+- **Repository:** `ibr2010/nashrly-claude-plugin`
 - **Plugin path:** leave empty (plugin is at repo root)
 - **Branch or tag:** leave empty (default branch `main`)
 - Click **Validate**; fix anything marked Blocking, push, **Re-validate**.

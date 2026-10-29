@@ -30,7 +30,7 @@ Every change is proposed as a card showing what will change and its credit cost.
 **Claude Code**
 
 ```
-/plugin marketplace add <github-owner>/nashrly-claude-plugin
+/plugin marketplace add ibr2010/nashrly-claude-plugin
 /plugin install nashrly@nashrly-claude-plugin
 ```
 
