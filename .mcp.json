@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nashrly": {
+      "type": "http",
+      "url": "https://anshrly.7okm.com/mcp"
+    }
+  }
+}

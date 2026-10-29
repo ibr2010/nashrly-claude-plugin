@@ -1,0 +1,23 @@
+{
+  "name": "nashrly",
+  "displayName": "Nashrly",
+  "version": "1.0.0",
+  "description": "Run multi-step e-commerce workflows on your Nashrly store from Claude: weekly store audits, product listing optimization, bulk improvements, launching products from a photo, a week of social posts, SEO keywords, and Arabic/MENA localization. Every change is shown as a card for your confirmation first.",
+  "author": {
+    "name": "Nashrly",
+    "url": "https://anshrly.7okm.com"
+  },
+  "homepage": "https://anshrly.7okm.com/en/claude",
+  "license": "MIT",
+  "keywords": [
+    "ecommerce",
+    "shopify",
+    "product-listings",
+    "seo",
+    "social-media",
+    "arabic",
+    "mena",
+    "nashrly"
+  ],
+  "privacyPolicyUrl": "https://anshrly.7okm.com/en/privacy"
+}
